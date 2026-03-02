@@ -30,4 +30,6 @@ global.ending = 0;
 
 global.volume = 1;
 
+global.tutorial = false;
+
 window_set_cursor(cr_none);

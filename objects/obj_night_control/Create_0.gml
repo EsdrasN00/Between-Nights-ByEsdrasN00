@@ -36,7 +36,11 @@ news0 = [//BAD
 	"Ja foi melhor",
 	"Tadinha...",
 	"Aconteceu algo",
-	"Nojo..."
+	"Nojo...",
+	"Bem estranha",
+	"Decaiu",
+	"Vergonhoso",
+	"So ladeira abaixo"
 ];
 
 news1 = [//MEDIUM
@@ -44,7 +48,11 @@ news1 = [//MEDIUM
 	"Ela e diva!",
 	"Sensacional",
 	"Ela arrasa",
-	"Ela parece bem"
+	"Ela parece bem",
+	"Curti",
+	"Nada mal",
+	"Mandou bem",
+	"Tem futuro"
 ];
 
 news2 = [//GREAT
@@ -52,7 +60,11 @@ news2 = [//GREAT
 	"Quero ser como ela!",
 	"Apenas perfeita",
 	"Controle total!",
-	"5 estrelas!"
+	"5 estrelas!",
+	"Pura classe!",
+	"Rainha",
+	"Brilha demais!",
+	"Sem defeitos!"
 ];
 
 news_catalogue = [news0, news1, news2];
